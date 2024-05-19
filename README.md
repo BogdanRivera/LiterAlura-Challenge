@@ -1,10 +1,12 @@
 <h1 align="center"> LiterAlura App </h1>
-![Logo proyecto](https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/f36b1ad2-d534-4580-b27b-bb20b644078c)
 
+
+![Minimalist Simple Grunge Graffiti Cat Brand Logo](https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/d619d2ce-b997-4514-b510-254c03d3dec8)
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
    </p>
+   
 # Descripción del proyecto
 Este proyecto es una aplicación de gestión de libros que utiliza Spring Boot y JPA para interactuar con una base de datos PostgreSQL. La aplicación permite buscar y almacenar libros obtenidos desde la API de Gutendex, gestionar autores y sus obras, y realizar análisis estadísticos sobre la biblioteca.
 
