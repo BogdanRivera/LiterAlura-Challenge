@@ -1,4 +1,4 @@
-<h1 align="center"> LiterAlura App </h1>
+<h1 align="center"> Literalura App </h1>
 
 
 <p align="center">
