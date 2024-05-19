@@ -1,5 +1,6 @@
 <h1 align="center"> LiterAlura App </h1>
-![Logo del proyecto](https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/f5993fbc-07ea-4ed7-b4b4-804a15f156f8)
+![Logo proyecto](https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/f36b1ad2-d534-4580-b27b-bb20b644078c)
+
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
