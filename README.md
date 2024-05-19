@@ -5,7 +5,7 @@
   <img src="https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/d619d2ce-b997-4514-b510-254c03d3dec8" alt="Logo proyecto">
 </p>
 
-   <p align="left">
+   <p align="center">
    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
    </p>
    
