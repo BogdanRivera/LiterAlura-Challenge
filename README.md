@@ -1,7 +1,9 @@
 <h1 align="center"> LiterAlura App </h1>
 
 
-![Minimalist Simple Grunge Graffiti Cat Brand Logo](https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/d619d2ce-b997-4514-b510-254c03d3dec8)
+<p align="center">
+  <img src="https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/d619d2ce-b997-4514-b510-254c03d3dec8" alt="Logo proyecto">
+</p>
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
